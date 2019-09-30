@@ -7,6 +7,6 @@
 2. How to meet requirements
   1. As requirement, I use iris-discrete dataset and another one from UCI web for testing. And it adapts the cross-validation as method. Then the algorithm will automatically print the correct rate.
   2. If you want to use the program to test other dataset files, you can move the file into data directory and correctly input document name in main file. But you need to make sure all the attributes in dataset are discrete, otherwise the program is meaningless.
-  
+
                                                           Notes
   If you want to know how to design the algorithm and the idea of function, you can check these in comments. I hope this doc will help you use the algorithm.
