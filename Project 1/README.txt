@@ -9,7 +9,7 @@ Project 1 of CSC 442
 
 3: The HMinMax.class is to implement hMinMax and alpha beta pruning.
 
-4. More details about how to run code and how to make operation are in writeup.pdf.
+4. More details about how to run code and how to make operation are in readme.pdf and writeup.pdf.
 
 5: The whole project is esatabileh under the Java, use IntelliJ as the IDE, it is a better idea to run the code in same IDE.
 
