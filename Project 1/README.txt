@@ -13,4 +13,4 @@ Project 1 of CSC 442
 
 5: The whole project is esatabileh under the Java, use IntelliJ as the IDE, it is a better idea to run the code in same IDE.
 
-6: If there is something wrong with my code(such as the game could not go smoothly), please contact me at rgao9@ur.rochester.edu
+6: If there is something wrong with my code(such as the game could not go smoothly), please contact me at xli125@ur.rochester.edu
